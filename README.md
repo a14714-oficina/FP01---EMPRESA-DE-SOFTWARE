@@ -30,8 +30,8 @@ O site foi criado para praticar a construção de páginas web com foco em:
 ---
 
 ## 🇵🇹 Demonstração
-O website pode ser visualizado localmente abrindo o link `https://a14714-oficina.infinityfree.me/fp01/index.html` no navegador.  
-Todas as páginas estão ligadas através do menu de navegação no cabeçalho.
+O website pode ser visualizado online clicando neste link:  
+[🌐 Ver Space Code Online](https://a14714-oficina.infinityfree.me/fp01/index.html)
 
 ---
 
@@ -65,8 +65,8 @@ The website was created to practice web development focusing on:
 ---
 
 ## 🇬🇧 Demo
-Open the `index.html` file locally in your web browser to view the website.  
-All pages are linked via the navigation menu in the header.
+View the website online here:  
+[🌐 See Space Code Online](https://a14714-oficina.infinityfree.me/fp01/index.html)
 
 ---
 
