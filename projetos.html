@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetos</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            background-color: #3a5cf5;
+            line-height: 1.6;
+        }
+
+        .pagina {
+            display: grid;
+            grid-template-areas:
+                "header"
+                "main"
+                "footer";
+            grid-template-rows: auto 1fr auto;
+            min-height: 100vh;
+        }
+
+        header {
+            grid-area: header;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #0d1dfd;
+            color: white;
+            padding: 15px 30px;
+            flex-wrap: wrap;
+        }
+
+        header h1 {
+            font-size: 1.8rem;
+            margin: 0;
+        }
+
+        header nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        header nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        header nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            grid-area: main;
+            padding: 40px 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .projetos {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .projeto-item {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .projeto-item img {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+
+        .projeto-item h3 {
+            margin: 0 0 10px 0;
+            color: #0d1dfd;
+        }
+
+        .projeto-item p {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+
+        .projeto-item a {
+            color: #0d1dfd;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .projeto-item a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            grid-area: footer;
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        
+            main {
+                padding: 20px 10px;
+            }
+            .projeto-item img {
+                max-width: 30%;
+            }
+    </style>
+</head>
+<body>
+    <div class="pagina">
+        <header>
+            <h1>Projetos</h1>
+            <nav>
+                <a href="index.html">Início</a>
+                <a href="projetos.html">Projetos</a>
+                <a href="contactos.html">Contactos</a>
+            </nav>
+        </header>
+
+        <main>
+            <h2>Os nossos projetos!</h2>
+
+            <div class="projetos">
+                <div class="projeto-item">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png" alt="Projeto Flappy Bird">
+                    <h3>Projeto Flappy Bird</h3>
+                    <p>Um jogo inspirado no clássico Flappy Bird, desenvolvido em C++ com gráficos simples e mecânica de obstáculos.</p>
+                    
+                </div>
+
+                <div class="projeto-item">
+                    <img src="https://assets.dio.me/o9pdzu0gpK-PRnXRg7FAei3tRG6yJ9wwI-__WyMLRIE/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzhkNWRjOGVhLWYwMGItNGQ4NS1hNWI4LWQ0ZjM4ZGMzNTgzOS5qcGc" alt="Website da Empresa">
+                    <h3>Website da Empresa</h3>
+                    <p>Desenvolvimento de um website moderno e responsivo para apresentar os serviços e contactos da empresa.</p>
+                    
+                </div>
+
+                <div class="projeto-item">
+                    <img src="https://cdn.appdesign.dev/wp-content/uploads/2024/05/Diseno-UX-UI.webp" alt="App de Gestão">
+                    <h3>App de Gestão</h3>
+                    <p>Aplicação para gestão de tarefas e projetos, com interface intuitiva e sincronização em tempo real.</p>
+                    
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Space Code - Carlos Alves</p>
+        </footer>
+    </div>
+</body>
+</html>
