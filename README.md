@@ -1,4 +1,6 @@
-📱 Projeto: Space Mobile — Empresa de Reparação de Telemóveis 🔧
+:
+
+💻 Projeto: Space Mobile — Empresa de Reparação de Telemóveis 🔧
 🇵🇹 Descrição
 
 O Space Mobile é um website fictício de uma empresa de reparação e manutenção de telemóveis, desenvolvido com HTML5 e CSS3.
