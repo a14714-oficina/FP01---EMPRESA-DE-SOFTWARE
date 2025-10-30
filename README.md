@@ -1,77 +1,69 @@
-:
+# 💻 Projeto: Space Code — Empresa de Software 🖥️
 
-💻 Projeto: Space Mobile — Empresa de Reparação de Telemóveis 🔧
-🇵🇹 Descrição
+## 🇵🇹 Descrição
+O **Space Code** é um website fictício de uma empresa de software, desenvolvido com **HTML5** e **CSS3**.  
+O objetivo é apresentar a empresa, a sua equipa, os projetos realizados e informações de contacto, com um design limpo, moderno e responsivo.
 
-O Space Mobile é um website fictício de uma empresa de reparação e manutenção de telemóveis, desenvolvido com HTML5 e CSS3.
-O objetivo é simular um site profissional que apresenta os serviços, contactos e informações sobre a empresa, com um design moderno, limpo e totalmente responsivo.
+---
 
-🇵🇹 Processo de Criação
+## 🇵🇹 Processo de Criação
+O site foi criado para praticar a construção de páginas web com foco em:
 
-O site foi criado com o objetivo de praticar a criação e estruturação de websites, com foco em:
+- Estrutura semântica de páginas web.
+- Navegação simples entre páginas.
+- Layout responsivo para diferentes tamanhos de ecrã.
+- Apresentação visual da equipa e dos projetos da empresa.
 
-Estrutura semântica e organização de páginas web.
+---
 
-Navegação simples entre secções e páginas.
+## 🇵🇹 Funcionalidades
 
-Layout adaptável a diferentes tamanhos de ecrã.
+- 🌐 **Navegação**: Início, Projetos, Equipa e Contactos.  
+- 👥 **Equipa**:
+  - João Costa — Gestor de Projeto  
+  - Carlos Alves — Programador Frontend  
+  - Sofia Ribeiro — Designer UI/UX  
+- 📂 **Projetos**: Exposição de trabalhos fictícios da empresa.  
+- ✉️ **Contactos**: Informações de contacto da empresa.  
+- 💻 Layout **responsivo** e moderno, compatível com diferentes dispositivos.  
 
-Utilização de HTML5 e CSS3 para criar um design moderno.
+---
 
-Desenvolvimento de uma identidade visual voltada para tecnologia e reparações móveis.
+## 🇵🇹 Demonstração
+O website pode ser visualizado localmente abrindo o link `https://a14714-oficina.infinityfree.me/fp01/index.html` no navegador.  
+Todas as páginas estão ligadas através do menu de navegação no cabeçalho.
 
-🇵🇹 Funcionalidades
+---
 
-🌐 Navegação: Início, Serviços, Sobre e Contactos.
+## 🇬🇧 Description
+**Space Code** is a fictional software company website, built using **HTML5** and **CSS3**.  
+The goal is to showcase the company, its team, completed projects, and contact information with a clean, modern, and responsive design.
 
-🛠️ Serviços: Apresentação dos principais serviços de reparação e manutenção de telemóveis.
+---
 
-ℹ️ Sobre: Descrição da empresa e dos seus valores.
+## 🇬🇧 Development Process
+The website was created to practice web development focusing on:
 
-✉️ Contactos: Página com informações de contacto da empresa.
+- Semantic page structure.
+- Simple navigation between pages.
+- Responsive layout for different screen sizes.
+- Visual presentation of the team and company projects.
 
-💻 Layout responsivo e funcional, compatível com todos os dispositivos.
+---
 
-🇵🇹 Demonstração
+## 🇬🇧 Features
 
-O website pode ser visualizado online clicando neste link:
-🌐 Ver Space Mobile Online
+- 🌐 **Navigation**: Home, Projects, Team, Contacts.  
+- 👥 **Team**:
+  - João Costa — Project Manager  
+  - Carlos Alves — Frontend Developer  
+  - Sofia Ribeiro — UI/UX Designer  
+- 📂 **Projects**: Showcase of fictional company projects.  
+- ✉️ **Contacts**: Company contact information.  
+- 💻 **Responsive** and modern layout compatible with different devices.  
 
-🇬🇧 Description
+---
 
-Space Mobile is a fictional website for a mobile phone repair company, built using HTML5 and CSS3.
-The goal is to simulate a professional website showcasing the company's services, contact details, and information, with a clean, modern, and responsive design.
-
-🇬🇧 Development Process
-
-The website was created to practice the structure and design of modern web pages, focusing on:
-
-Semantic and organized page layout.
-
-Simple navigation between sections and pages.
-
-Responsive design for all screen sizes.
-
-Use of HTML5 and CSS3 for a modern, tech-inspired look.
-
-Creation of a clean visual identity for a repair service company.
-
-🇬🇧 Features
-
-🌐 Navigation: Home, Services, About, Contacts.
-
-🛠️ Services: Overview of repair and maintenance services.
-
-ℹ️ About: Company information and mission.
-
-✉️ Contacts: Contact details of the company.
-
-💻 Fully responsive layout for desktop and mobile devices.
-
-🇬🇧 Demo
-
-View the website online here:
-🌐 See Space Mobile Online
-
-Carlos Alves
-OFICINA, Escola Profissional © 2025
+## 🇬🇧 Demo
+Open the `index.html` file locally in your web browser to view the website.  
+All pages are linked via the navigation menu in the header.
