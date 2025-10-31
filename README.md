@@ -67,7 +67,7 @@ The website was created to practice web development focusing on:
 
 ---
 
-🇬🇧 Code Structure
+## 🇬🇧 Code Structure
 
 The website is organized across multiple HTML pages, each with a header, main, and footer, and styles applied internally or via external references:
 
