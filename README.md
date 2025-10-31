@@ -15,7 +15,23 @@ O site foi criado para praticar a construção de páginas web com foco em:
 - Apresentação visual da equipa e dos projetos da empresa.
 
 ---
+🇵🇹 Estrutura do Código
 
+O website é organizado em múltiplas páginas HTML, cada uma com header, main e footer, e estilos aplicados internamente ou via referências externas:
+
+index.html — Página inicial com apresentação da empresa.
+
+projetos.html — Página com lista e descrição de projetos.
+
+equipa.html — Apresentação da equipa de trabalho.
+
+contactos.html — Formulário e informações de contacto.
+
+style.css — Estilos globais e responsivos para todas as páginas.
+
+O CSS utiliza grid e flexbox para criar layouts adaptáveis a diferentes tamanhos de ecrã, garantindo um design responsivo básico.
+
+---
 ## 🇵🇹 Funcionalidades
 
 - 🌐 **Navegação**: Início, Projetos, Equipa e Contactos.  
@@ -48,6 +64,24 @@ The website was created to practice web development focusing on:
 - Simple navigation between pages.
 - Responsive layout for different screen sizes.
 - Visual presentation of the team and company projects.
+
+---
+
+🇬🇧 Code Structure
+
+The website is organized across multiple HTML pages, each with a header, main, and footer, and styles applied internally or via external references:
+
+index.html — Home page introducing the company.
+
+projetos.html — Page with a list and description of projects.
+
+equipa.html — Team presentation page.
+
+contactos.html — Contact form and company information.
+
+style.css — Global and responsive styles for all pages.
+
+CSS uses grid and flexbox to create layouts that adapt to different screen sizes, ensuring a responsive design.
 
 ---
 
