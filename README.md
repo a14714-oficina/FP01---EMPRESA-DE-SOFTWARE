@@ -15,7 +15,7 @@ O site foi criado para praticar a construção de páginas web com foco em:
 - Apresentação visual da equipa e dos projetos da empresa.
 
 ---
-🇵🇹 Estrutura do Código
+## 🇵🇹 Estrutura do Código
 
 O website é organizado em múltiplas páginas HTML, cada uma com header, main e footer, e estilos aplicados internamente ou via referências externas:
 
